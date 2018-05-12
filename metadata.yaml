@@ -1,0 +1,41 @@
+_repo: Sir-Henry-Morgan-Buccaneer--A-Romance-of-the-Spanish-Main_29316
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Crawford, Will
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '33839'
+    url: http://www.gutenberg.org/2009/agents/33839
+  - agent_name: Marchand, J. N.
+    gutenberg_agent_id: '6834'
+    url: http://www.gutenberg.org/2009/agents/6834
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29316'
+  lccn: '03021013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Caribbean Area -- Fiction'
+- !lcsh 'Buccaneers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Morgan, Henry, Sir, 1635?-1688 -- Fiction'
+title: 'Sir Henry Morgan, Buccaneer: A Romance of the Spanish Main'
+url: http://www.gutenberg.org/ebooks/29316
