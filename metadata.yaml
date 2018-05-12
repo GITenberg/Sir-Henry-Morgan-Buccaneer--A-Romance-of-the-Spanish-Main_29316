@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29316#Sir-Henry-Morgan-Buccaneer--A-Romance-of-the-Spanish-Main
 gutenberg_issued: '2009-07-04'
 gutenberg_type: Text
 identifiers:
